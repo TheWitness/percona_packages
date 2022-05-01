@@ -1,0 +1,172 @@
+{
+    "manifest": [
+        {
+            "kind": "Package",
+            "name": "Percona Amazon RDS Server HT",
+            "filename": "Percona_Amazon_RDS_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona Amazon RDS Server HT Device Package",
+                "class": "database",
+                "tags": "percona amazon rds server",
+                "installation": [
+
+                ],
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona Apache Server HT",
+            "filename": "Percona_Apache_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona Apache Server HT Device Package",
+                "class": "cacti",
+                "tags": "percona apache web server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona GNU\/Linux Server HT",
+            "filename": "Percona_GNULinux_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona GNU\/Linux Server HT Device Package",
+                "class": "linux",
+                "tags": "percona linux server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona Galera Server HT",
+            "filename": "Percona_Galera_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona Galera Server HT Device Package",
+                "class": "database",
+                "tags": "percona mysql mariadb galera",
+                "installation": "Suggest the data input method be made to detect a .my.cnf file.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona JMX Server HT",
+            "filename": "Percona_JMX_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona JMX Server HT Device Package",
+                "class": "linux",
+                "tags": "percona jmx server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona Memcached Server HT",
+            "filename": "Percona_Memcached_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona Memcached Server HT Device Package",
+                "class": "linux",
+                "tags": "percona memcachd server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona MongoDB Server HT",
+            "filename": "Percona_MongoDB_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona MongoDB Server HT Device Package",
+                "class": "database",
+                "tags": "percona mongodb server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona MySQL Server HT",
+            "filename": "Percona_MySQL_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona MySQL Server HT Device Package",
+                "class": "database",
+                "tags": "percona mysql mariadb server",
+                "installation": "Suggest the data input method be made to detect a .my.cnf file.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona Nginx Server HT",
+            "filename": "Percona_Nginx_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona Nginx Server HT Device Package",
+                "class": "cacti",
+                "tags": "percona nginx server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        },
+        {
+            "kind": "Package",
+            "name": "Percona OpenVZ Server HT",
+            "filename": "Percona_OpenVZ_Server_HT.xml.gz",
+            "metadata": {
+                "author": "The Cacti Group",
+                "homepage": "cacti.net",
+                "email": "developers@cacti.net",
+                "description": "Percona OpenVZ Server HT Device Package",
+                "class": "linux",
+                "tags": "percona openvz server",
+                "installation": "You will need to have an ssh authorized key file the the poller account to be able to reach the server using ssh.",
+                "version": "1.2.21",
+                "copyright": "GNU General Public License"
+            }
+        }
+    ],
+    "keys": [
+        {
+            "publickey": "-----BEGIN PUBLIC KEY-----\nMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMbPpuQfwmg93oOGjdLKrAqwEPwvvNjC\nbk2YZiDglh8lQJxNQI9glG1Z\/ptvqprFO3iSx9rTP4vzZ0Ek2+EMYTMCAwEAAQ==\n-----END PUBLIC KEY-----",
+            "publickeyname": "The Cacti Group"
+        }
+    ]
+}
